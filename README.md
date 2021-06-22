@@ -3,7 +3,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.29.
 
 ## Install dependencies
-Run 'npm i'/ ' non install'
+Run 'npm i'/ ' npm install'
 
 ## Development server
 
